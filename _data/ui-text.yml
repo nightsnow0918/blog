@@ -386,7 +386,7 @@ zh-TW:
   undefined_wpm              : "_config.yml 中未定義 words_per_minute"
   comment_form_info          : "您的電子信箱不會被公開. 必填部份已標記"
   comment_form_comment_label : "留言內容"
-  comment_form_md_info       : "支援Markdown語法。"
+  comment_form_md_info       : "支援 Markdown 語法。"
   comment_form_name_label    : "名字"
   comment_form_email_label   : "電子信箱帳號"
   comment_form_website_label : "網頁 (可選填)"

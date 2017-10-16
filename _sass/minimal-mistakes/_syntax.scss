@@ -30,7 +30,12 @@ figure.highlight {
   .highlight {
     margin: 0;
     padding: 1em;
-    font-size: $type-size-7;
+  }
+}
+
+div.highlighter-rouge {
+  .highlight {
+    font-size: $type-size-6;
   }
 }
 

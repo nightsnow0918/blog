@@ -39,7 +39,7 @@ tags: [blog, github pages, jekyll]
 
 ## 使用 Jekyll Theme
 
-[Jekyll](https://jekyllrb.com/) 是一個靜態網頁產生器，使用 ruby 實作出來的[^1]。Jekyll 本身含有類似於 jinja 或 django template 的 template engine[^2]，可以讓開發者自定 HTML template pattern，埋入 jekyll 內建或是使用者自定的參數及函式，就可以產生出所有的靜態網頁，而不用一頁一頁自己刻出來 (汗)。
+[Jekyll](https://jekyllrb.com/) 是一個靜態網頁產生器，使用 ruby 實作出來的[^1]。Jekyll 本身含有類似於 jinja 或 django template 的 template engine[^2]，可以讓開發者自定 HTML template pattern，埋入 jekyll 內建或是使用者自定的參數及函式，再執行 jekyll，就可以產生出所有的靜態網頁，而不用一頁一頁自己刻出來 (汗)。
 
 不過要用 Jekyll 還是得寫出自己的模版。對網頁外觀沒有特別的偏好，或是對 HTML/CSS 切板不熟或是沒 sense 的人，也可以套用線上已經建立好的 [Jekyll theme](http://themes.jekyllrc.org/)。這個網頁含有非常多由各方開發者開發出來的 jekyll theme，點擊 theme 縮圖可以看到它的預覽及安裝說明。
 

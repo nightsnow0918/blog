@@ -2,8 +2,10 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://nightsnow0918.github.io/snow-blog/about/
+  - title: "關於"
+    url: /about/
+  - title: "作品集"
+    url: /works/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

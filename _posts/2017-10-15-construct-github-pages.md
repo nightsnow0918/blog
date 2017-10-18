@@ -1,6 +1,7 @@
 ---
 title: Github pages + Jekyll theme 開站小記
 tags: [blog, github pages, jekyll]
+category: [Tech]
 ---
 
 # 開設流程
